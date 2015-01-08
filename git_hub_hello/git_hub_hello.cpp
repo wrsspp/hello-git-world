@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf("Hello Git World!!\n");
+	printf("Hello Git World\n");
 	return 0;
 }
 
